@@ -26,7 +26,10 @@ https://asperitas.vercel.app
     ```bash
     $ make
     ```
-
+2. Open in browser 
+    ```
+    http://localhost:8080
+    ```
 ## Testing
 
 1. Start server tests
